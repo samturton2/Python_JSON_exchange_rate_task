@@ -1,2 +1,11 @@
 venv/
 .idea/
+/python_modules-main/exception_handling.py
+/python_modules-main/json_rate_parser.py
+/python_modules-main/json_with_python.py
+/python_modules-main/new_json_file.json
+/python_modules-main/postcode_task.py
+/python_modules-main/python_api_with_requests.py
+/python_modules-main/python_modules.py
+/python_modules-main/README.md
+/python_modules-main/.gitignore
